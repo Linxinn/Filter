@@ -16,10 +16,8 @@ HOST-SUFFIX,interface3.music.163.com,网易云音乐
 HOST-SUFFIX,interface3*.music.126.com,网易云音乐
 HOST-SUFFIX,interface3.music.126.com,网易云音乐
 HOST-SUFFIX,lbs.netease.im, 网易云音乐
-HOST-SUFFIX, m801.music.126.net,网易云音乐
 HOST-SUFFIX,nstool.netease.com,网易云音乐
-HOST-SUFFIX,ac.dun.163yun.com,网易云音乐
-
+HOST-SUFFIX,api.crush.163.com,网易云音乐
 HOST-SUFFIX,music.163.com.163jiasu.com,网易云音乐
 HOST-KEYWORD,netease,网易云音乐
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90**,网易云音乐
