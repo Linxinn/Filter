@@ -1,8 +1,8 @@
 # 更新时间：2023.03.22
 
-HOST, interface3.music.163.com,163jiasu.com,interface3.music.163.com,interface3*.music.163.com,网易云音乐
-HOST,iadmat.nosdn.127.net,网易云音乐
+HOST, interface3.music.163.com.163jiasu.com, 网易云音乐
 
+HOST,iadmat.nosdn.127.net,网易云音乐
 HOST,netease.ugcvideoss.ourdvs.com,网易云音乐
 HOST-SUFFIX,163yun.com,网易云音乐
 HOST-SUFFIX,api.iplay.163.com,网易云音乐
@@ -11,13 +11,6 @@ HOST-SUFFIX,mam.netease.com,网易云音乐
 HOST-SUFFIX,music.126.com,网易云音乐
 HOST-SUFFIX,music.126.net,网易云音乐
 HOST-SUFFIX,music.163.com,网易云音乐
-HOST-SUFFIX,interface3*.music.163.com,网易云音乐
-HOST-SUFFIX,interface3.music.163.com,网易云音乐
-HOST-SUFFIX,interface3*.music.126.com,网易云音乐
-HOST-SUFFIX,interface3.music.126.com,网易云音乐
-HOST-SUFFIX,lbs.netease.im, 网易云音乐
-HOST-SUFFIX,nstool.netease.com,网易云音乐
-HOST-SUFFIX,api.crush.163.com,网易云音乐
 HOST-SUFFIX,music.163.com.163jiasu.com,网易云音乐
 HOST-KEYWORD,netease,网易云音乐
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90**,网易云音乐
